@@ -1,6 +1,6 @@
 # Tugas Individu 3 Pemrograman Web Lanjut
 
-This is the 'Tugas Individu 3 Pemrograman Web Lanjut' repository which contains program code for a web app. This app was create using [TailwindCSS]((https://tailwindui.com/)) with [Node.js](https://nodejs.org/en/docs) & [React.js](https://react.dev/).
+Program ini dibangun menggunakan [Node.js](https://nodejs.org/en/docs) dengan [React.js](https://react.dev/) dan [TailwindCSS]((https://tailwindui.com/)).
 
 ## Cara Menjalankan Program
 
