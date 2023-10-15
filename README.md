@@ -28,5 +28,5 @@ Tunggu sampai perangkat selesai menjalankan perintah, setelah itu ctrl + click p
 
 ## Pengembang Program
 
-Muhammad Duta Faturrahman [henhen02](https://github.com/F4turrahman/)
+Muhammad Duta Faturrahman [F4turrahman](https://github.com/F4turrahman/)
 muhammad.120140065@student.itera.ac.id (student)
