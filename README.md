@@ -6,63 +6,27 @@ This is the 'Tugas Individu 3 Pemrograman Web Lanjut' repository which contains 
 
 Sebelum menjalankan program, pastikan terlebih dahulu sudah menginstall 'Node.js' dan 'Git' pada perangkat (Perlu diingat, Git dan Github tidaklah sama!)
 
-### Clone This Repository
+### Depedencies Yang Harus Diinstal
 
-Clone this repository on your computer through your computer's terminal by running the following command:
-
-```
-git clone https://github.com/henhen02/Tugas-Individu-3-PWL.git
-```
-
-Wait until the clone process is complete to proceed with the directory change step through your computer’s terminal.
-
-### Change To App Directory
-
-The next step is to change directories. If you are using Windows, you can use the following command:
-
-```
-cd Tugas-Individu-3-PWL
-```
-
-### Depedencies Installation
-
-Before you can run this app, you are required to install the necessary dependencies. Use the following command:
+Sebelum menjalankan program ini, yang dibutuhkan adalah menginstall dependencies. Ikuti perintah berikut:
 
 ```
 npm i
 ```
 
-The dependency installation process will take about 5-10 minutes (depending on your internet speed). If the dependency installation fails and an error message appears, try to make sure that you have installed [Node.js](https://nodejs.org/en).
+Proses installasi dependencies membutuhkan waktu sekitar 5 sampai 10 menit (tergantung kecepatan internet yang digunakan). Jika terjadi kegagalan saat proses installasi, pastikan sudah menginstall yang dibutuhkan sebelumnya [Node.js](https://nodejs.org/en).
 
-### Start For Run The App
+### Langkah Awal Menjalankan Program
 
-This app runs in development mode, you can run this app using the following command:
-
-```
-npm start
-```
-
-Wait until your computer has finished the compilation process and opens a tab in your default browser.
-
-### Try To Test Some Components
-
-To perform testing, you can run the following command:
+Program ini dijalankan pada mode development, jalankan program menggunakan perintah berikut:
 
 ```
-npm test
+npm run dev
 ```
 
-##### Test Result
+Tunggu sampai perangkat selesai menjalankan perintah, setelah itu ctrl + click pada bagian 'Local', maka secara automatis akan langsung diarahkan ke web browser.
 
-Previously, testing was also done on some application components such as buttons, assets, header, and footer. You can see the test results in the picture below:
+## Pengembang Program
 
-```
-
-```
-
-![test result](./src/assets/testresult.PNG)
-
-## Author
-
-Hendri Aldi Zulfan [henhen02](https://github.com/henhen02/)
-hendri.120140186@student.itera.ac.id (student) | hendri21072002@gmail.com (personal)
+Muhammad Duta Faturrahman [henhen02](https://github.com/F4turrahman/)
+muhammad.120140065@student.itera.ac.id (student)
